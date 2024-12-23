@@ -3,5 +3,5 @@
 **/*.tfstate.*
 **/.terraform/*
 **/.terraform.lock.hcl
-**/.terraform.exe
+C:\Users\10744220\Downloads\Devops-project\Terraform-code\terraform_code\terraform.exe
 **/*.tfplan
