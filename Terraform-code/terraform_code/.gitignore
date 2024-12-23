@@ -4,4 +4,4 @@
 **/.terraform/*
 **/.terraform.lock.hcl
 /c/Users/10744220/Downloads/Devops-project/Terraform-code/terraform.exe
-**/*.test.tfplan
+**/*.tfplan
