@@ -1,5 +1,6 @@
 **/*.tfstate
+**/*.terraform.*
 **/*.tfstate.*
 **/.terraform/*
 **/.terraform.lock.hcl
-**/*.terraform.exe
+/c/Users/10744220/Downloads/Devops-project/Terraform-code/terraform.exe
